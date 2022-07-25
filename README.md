@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dperaltag
 - 👀 I’m interested in almost everything new in the technology world
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 You can reach me by mail on dperaltag@gmail.com
 
